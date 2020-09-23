@@ -14,4 +14,4 @@ to do that :
 **you have to get the id of the message and the channel id that has the message, and put them on 'msgID' and 'channel_id' variables that are in (_on_raw_reaction_remove_ and _on_raw_reaction_add_ fonctions in the code)**  
 
 after that:  
-**you can mute everyone at your channel just by adding a reaction to this message and unmute them by removing a reaction **
+**you can mute everyone at your channel just by adding a reaction to this message and unmute them by removing a reaction**
